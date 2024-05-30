@@ -1,0 +1,59 @@
+.sectionContact {
+  background-color: #111311;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.titleSectionContact {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 21.78px;
+  text-align: center;
+  margin: 40px 0;
+  color: #999999
+}
+
+.selectContact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.iconFooter {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 20px;
+}
+
+.textItemContact {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: left;
+}
+
+.itemContainerContact {
+  display: flex;
+  align-items: center;
+  margin: 20px 10px;
+}
+
+.link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.containerSocialLink {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgLink {
+  margin: 30px 15px;
+}

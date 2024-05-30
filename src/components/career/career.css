@@ -1,0 +1,49 @@
+.sectionCareer {  
+  background-color: #111311;
+  padding-top: 20px;
+  padding-bottom: 50px;}
+
+.titleSectionCareer {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 21.78px;
+  text-align: center;
+  margin: 40px 0;
+  color: #999999
+}
+
+.textHeaderCareer {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: left;
+  color: #FFFFFF;
+  margin: 20px;
+}
+
+.nameUser {
+  margin-top: 10px;
+  color:#FFFFFF;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+}
+
+.position {
+  color:#FFFFFF;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+}
+
+.itemTextUser {
+  color:#FFFFFF;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  margin-top: 10px;
+}

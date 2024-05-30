@@ -1,0 +1,51 @@
+.sectionAdvantages {
+  background-color: #111311;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.titleSectionAdvantages {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 21.78px;
+  text-align: center;
+  margin: 40px 0;
+  color: #999999
+}
+
+.cardAdvantages {
+  border-bottom: 3px solid #999999;
+  padding: 20px;
+}
+
+.itemAdvantages {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;  
+  align-items: center;
+}
+
+.textItemAdvantages {
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.78px;
+  text-align: left;
+}
+
+.wrpButton {
+  background: none;
+  border: none
+}
+
+.someText {
+  padding-top: 10px;
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.78px;
+  text-align: left;
+}
+
+
